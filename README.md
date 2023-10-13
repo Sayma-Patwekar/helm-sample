@@ -9,4 +9,4 @@ Testing github pages
 ### Heading 3
 
 Link
-[repo_link](https://sayma-patwekar.github.io/my-portfolio/)
+[repo_link](https://github.com/Sayma-Patwekar/my-portfolio)
