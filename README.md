@@ -9,4 +9,4 @@ Testing github pages
 ### Heading 3
 
 Link
-[[http://www.example.com](https://sayma-patwekar.github.io/my-portfolio/)https://sayma-patwekar.github.io/my-portfolio/]([http://www.example.com](https://sayma-patwekar.github.io/my-portfolio/)https://sayma-patwekar.github.io/my-portfolio/)
+[repo_link](https://sayma-patwekar.github.io/my-portfolio/)
